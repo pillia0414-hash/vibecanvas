@@ -1,0 +1,3 @@
+[mcp_servers.supabase]
+url = "https://mcp.supabase.com/mcp?project_ref=rffuabhlmjnkpvqmhghx"
+default_tools_approval_mode = "writes"
